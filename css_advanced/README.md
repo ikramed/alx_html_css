@@ -1,0 +1,1 @@
+This project is part of the "HTML, Advanced" task in ALX, aiming to implement a Figma design using HTML and CSS with high accuracy. The project contains an index.html file with custom CSS files, in addition to the required images and fonts. The goal is to build a responsive and visually appealing page that matches the original design, focusing on code quality and user experience
